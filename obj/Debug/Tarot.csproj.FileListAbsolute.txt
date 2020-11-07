@@ -1,0 +1,13 @@
+C:\Users\Nevena\Desktop\Tarot\bin\Debug\Tarot.exe.config
+C:\Users\Nevena\Desktop\Tarot\bin\Debug\Tarot.exe.manifest
+C:\Users\Nevena\Desktop\Tarot\bin\Debug\Tarot.application
+C:\Users\Nevena\Desktop\Tarot\bin\Debug\Tarot.exe
+C:\Users\Nevena\Desktop\Tarot\bin\Debug\Tarot.pdb
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.Form1.resources
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.Properties.Resources.resources
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.csproj.GenerateResource.cache
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.exe.manifest
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.application
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.exe
+C:\Users\Nevena\Desktop\Tarot\obj\Debug\Tarot.pdb
